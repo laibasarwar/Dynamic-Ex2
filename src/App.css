@@ -1,0 +1,61 @@
+.pageWrapper {
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 25px;
+}
+
+h1 {
+  font-size: 64px;
+}
+
+.articleCard {
+  border: 1px solid black;
+  display: flex;
+  margin-bottom: 40px;
+  gap: 25px;
+  padding: 20px;
+}
+
+.articleCard--image {
+  flex-basis: 30%;
+}
+
+.articleCard--image img {
+  max-width: 1200px;
+  max-height: 200px;
+}
+.articleCard--text {
+  flex-basis: 70%;
+}
+
+.articleCard--text {
+  flex-basis: 70%;
+}
+
+.article--header--wrapper {
+  margin: 0 auto;
+  max-width: 1200px;
+  margin-left: 375px;
+  margin-right: 375px;
+  padding: 25px;
+}
+
+.article--header--wrapper h1 {
+  font-size: 64px;
+}
+
+.article--header--wrapper p {
+  font-size: 20px;
+}
+
+.article--header--wrapper .blurb {
+  font-size: 20px;
+}
+
+.article--content {
+  margin: 0 auto;
+  max-width: 1200px;
+  margin-left: 400px;
+  margin-right: 400px;
+  padding: 25px;
+}
