@@ -1,3 +1,9 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
 .pageWrapper {
   margin: 0 auto;
   max-width: 1200px;
@@ -55,7 +61,7 @@ h1 {
 .article--content {
   margin: 0 auto;
   max-width: 1200px;
-  margin-left: 400px;
+  margin-left: 375px;
   margin-right: 400px;
   padding: 25px;
 }

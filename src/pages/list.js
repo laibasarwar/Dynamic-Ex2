@@ -5,7 +5,7 @@ import Data from "../components/data";
 function List() {
   return (
     <main className="pageWrapper">
-      <h1>Articles List</h1>
+      <h1>Articles</h1>
       {Data.map((article, i) => (
         <ArticleCard
           key={i}
